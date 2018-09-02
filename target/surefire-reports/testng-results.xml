@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="org.devops.devopsnew.WebDriverTest" duration-ms="37001" started-at="2018-09-02T04:02:20Z" finished-at="2018-09-02T04:02:57Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="37001" started-at="2018-09-02T04:02:20Z" finished-at="2018-09-02T04:02:57Z">
+      <class name="org.devops.devopsnew.WebDriverTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:org.devops.devopsnew.WebDriverTest@49e4cb85]" name="beforeTest" is-config="true" duration-ms="15639" started-at="2018-09-02T09:32:20Z" finished-at="2018-09-02T09:32:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:org.devops.devopsnew.WebDriverTest@49e4cb85]" name="testEasy" duration-ms="14097" started-at="2018-09-02T09:32:36Z" finished-at="2018-09-02T09:32:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:org.devops.devopsnew.WebDriverTest@49e4cb85]" name="afterTest" is-config="true" duration-ms="7234" started-at="2018-09-02T09:32:50Z" finished-at="2018-09-02T09:32:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- org.devops.devopsnew.WebDriverTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- org.devops.devopsnew.WebDriverTest -->
+</testng-results>
